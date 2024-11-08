@@ -21,3 +21,16 @@ In this project, we implemented a simple recommendation system that provides sug
    ```bash
    git clone https://github.com/GovindaTak/movie-recommendation-system.git
    cd movie-recommendation-system
+2.Install the required dependencies:
+
+pip install -r requirements.txt
+3.Run the notebook:
+Open Movie Recommendation System.ipynb in Jupyter Notebook or Jupyter Lab to explore the code.
+
+## Usage
+The recommendation system provides movie suggestions by comparing the selected movie to others in the dataset. Simply select a movie, and the system will return similar movie recommendations.
+
+## Future Enhancements
+Adding advanced recommendation algorithms, such as collaborative filtering and matrix factorization.
+Integrating a more extensive dataset for improved recommendations.
+
